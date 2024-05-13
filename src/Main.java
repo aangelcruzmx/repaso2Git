@@ -12,6 +12,9 @@ public class Main {
 
     private static void despedirse() {
         System.out.println("hasta la vista baby");
+        System.out.println("Te equivocas es..... ");
+        System.out.println("Sayonara baby.....");
+
     }
 
     private static void saludar() {
