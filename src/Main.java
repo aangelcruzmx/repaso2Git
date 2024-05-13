@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         saludar();
+        presentarse();
         despedirse();
 
 
@@ -10,9 +11,11 @@ public class Main {
 
     }
 
+    private static void presentarse() {
+        System.out.println("Yo soy batman");
+    }
+
     private static void despedirse() {
-        System.out.println("hasta la vista baby");
-        System.out.println("Te equivocas es..... ");
         System.out.println("Sayonara baby.....");
 
     }
